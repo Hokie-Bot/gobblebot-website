@@ -1,6 +1,6 @@
 {
-  "name": "RNA Technologies",
-  "headerTaglineOne": "Introducing the GobbleBot.",
+  "name": "Team GobbleBot",
+  "headerTaglineOne": "Introducing the GobbleBot",
   "showBlog": true,
   "darkMode": true,
   "socials": [
@@ -59,24 +59,39 @@
   "services": [
     {
       "id": "1",
-      "title": "GobbleBot",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "title": "Abraham Tenorio",
+      "description": "Lead Electrical Systems Engineer"
     },
     {
       "id": "2",
-      "title": "Lorem Ipsum",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "title": "Abdullah Khurram",
+      "description": "Lead Software Engineer",
+      "url": "about:blank"
     },
     {
       "id": "3",
-      "title": "Lorem Ipsum",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "title": "Elijah Hinton",
+      "description": "Project Manager",
+      "url": "about:blank"
     },
     {
       "id": "4",
-      "title": "Lorem Ipsum",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+      "title": "Robert Higinbotham",
+      "description": "Lead Mechanical Systems Engineer",
+      "url": "about:blank"
+    },
+    {
+      "id": "5",
+      "title": "Gabe Rosado",
+      "description": "Mechanical Systems Engineer",
+      "url": "about:blank"
+    },
+    {
+      "id": "6",
+      "title": "Michael Terrando",
+      "description": "Mechanical Systems Engineer / Lead Technical Writer",
+      "url": "about:blank"
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "aboutpara": "The mission of GobbleBot is to create a food delivery robot able to service the residential dorms from Virginia Tech’s dining halls in order to provide easier access to food for those who are unwilling or unable to get to the dining facilities."
 }

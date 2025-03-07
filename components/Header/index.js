@@ -27,7 +27,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                 onClick={() => router.push("/")}
                 className="font-medium p-2 laptop:p-0 link"
               >
-                {name}.
+                {name}
               </h1>
 
               <div className="flex items-center">
@@ -77,7 +77,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:abkhur@vt.edu")
+                        window.open("mailto:gobblebot@vt.edu")
                       }
                     >
                       Resume
@@ -85,7 +85,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:abkhur@vt.edu")}
+                    onClick={() => window.open("mailto:gobblebot@vt.edu")}
                   >
                     Contact
                   </Button>
@@ -108,7 +108,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:hello@abkhur@vt.edu")}
+                    onClick={() => window.open("mailto:gobblebot@vt.edu")}
                   >
                     Contact
                   </Button>
@@ -145,7 +145,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:abkhur@vt.edu")}>
+            <Button onClick={() => window.open("mailto:gobblebot@vt.edu")}>
               Contact
             </Button>
             {mounted && theme && data.darkMode && (
@@ -165,16 +165,8 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             {showBlog && (
               <Button onClick={() => router.push("/blog")}>Blog</Button>
             )}
-            {showResume && (
-              <Button
-                onClick={() => router.push("/resume")}
-                classes="first:ml-1"
-              >
-                Resume
-              </Button>
-            )}
 
-            <Button onClick={() => window.open("mailto:abkhur@vt.edu")}>
+            <Button onClick={() => window.open("mailto:gobblebot@vt.edu")}>
               Contact
             </Button>
 
