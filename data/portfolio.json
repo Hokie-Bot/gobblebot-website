@@ -10,49 +10,35 @@
       "link": "https://github.com/Hokie-Bot/"
     },
     { "id": "2", "title": "Blog", "link": "/blog" },
-    { "id": "3", "title": "Email", "link": "mailto:abkhur@vt.edu" }
+    { "id": "3", "title": "Email", "link": "mailto:gobblebot@vt.edu" }
   ],
   "projects": [
     {
       "id": "1",
-      "title": "Project One Test",
-      "description": "Chassis",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Prototype I",
+      "description": "The Chassis",
+      "imageSrc": "https://i.ibb.co/GQQ3D3XZ/IMG-7827.jpg",
       "url": ""
     },
     {
       "id": "2",
-      "title": "Project Two Test",
-      "description": "Drivetrain",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Prototype I",
+      "description": "The Drivetrain",
+      "imageSrc": "https://i.ibb.co/XZMQ4gkx/IMG-7829.jpg",
       "url": ""
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Prototype I",
+      "description": "The Container",
+      "imageSrc": "https://i.ibb.co/YBsqpbsR/IMG-7830.jpg",
       "url": ""
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Virginia Tech",
+      "title": "Prototype I",
+      "description": "Future Plans",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": ""
-    },
-    {
-      "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": ""
-    },
-    {
-      "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       "url": ""
     }
   ],
@@ -60,38 +46,39 @@
     {
       "id": "1",
       "title": "Abraham Tenorio",
-      "description": "Lead Electrical Systems Engineer"
+      "description": "Lead Electrical Systems Engineer",
+      "url": "blog/450b0cbb-c665-42b5-a36f-4a101d2e9397"
     },
     {
       "id": "2",
       "title": "Abdullah Khurram",
       "description": "Lead Software Engineer",
-      "url": "about:blank"
+      "url": "blog/450b0cbb-c665-42b5-a36f-4a101d2e9397"
     },
     {
       "id": "3",
       "title": "Elijah Hinton",
       "description": "Project Manager",
-      "url": "about:blank"
+      "url": "blog/450b0cbb-c665-42b5-a36f-4a101d2e9397"
     },
     {
       "id": "4",
       "title": "Robert Higinbotham",
       "description": "Lead Mechanical Systems Engineer",
-      "url": "about:blank"
+      "url": "blog/450b0cbb-c665-42b5-a36f-4a101d2e9397"
     },
     {
       "id": "5",
       "title": "Gabe Rosado",
       "description": "Mechanical Systems Engineer",
-      "url": "about:blank"
+      "url": "blog/450b0cbb-c665-42b5-a36f-4a101d2e9397"
     },
     {
       "id": "6",
       "title": "Michael Terrando",
       "description": "Mechanical Systems Engineer / Lead Technical Writer",
-      "url": "about:blank"
+      "url": "blog/450b0cbb-c665-42b5-a36f-4a101d2e9397"
     }
   ],
-  "aboutpara": "The mission of GobbleBot is to create a food delivery robot able to service the residential dorms from Virginia Tech’s dining halls in order to provide easier access to food for those who are unwilling or unable to get to the dining facilities."
+  "aboutpara": "The mission of GobbleBot is to develop a food delivery robot capable of serving residential dorms at Virginia Tech by delivering meals directly from the campus dining halls. This initiative aims to provide convenient and accessible food options for students who are unable or prefer not to visit the dining facilities themselves."
 }
